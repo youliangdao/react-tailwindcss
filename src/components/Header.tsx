@@ -11,10 +11,10 @@ const Header: FC = () => {
           <a href="#home" className="mr-5 hover:text-blue-400 duration-300">
             Home
           </a>
-          <a href="#About" className="mr-5 hover:text-blue-400 duration-300">
+          <a href="#/About" className="mr-5 hover:text-blue-400 duration-300">
             About
           </a>
-          <a href="#Skills" className="mr-5 hover:text-blue-400 duration-300">
+          <a href="#/Skills" className="mr-5 hover:text-blue-400 duration-300">
             Skills
           </a>
           <a href="#Blog" className="hover:text-blue-400 duration-300">
